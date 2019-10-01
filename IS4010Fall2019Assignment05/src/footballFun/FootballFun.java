@@ -28,9 +28,9 @@ public class FootballFun {
 		}
 	}
 	/**
-	 * 
-	 * 
-	 * @param score
+	 * This checks to make sure the score works for each return, if so, all tests pass
+	 * In the process, if a statement is true, correct count gets increased by 1. if all tests are true(8) the whole thing passes
+	 * @param score, what the user would be entering for a score
 	 * @return "" returns "All tests passed" if all statements align
 	 */
 	
