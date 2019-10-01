@@ -1,5 +1,6 @@
 /*
  * IS4010 Fall 2019
+ * 10/03/2019
  * Assignment 05
  * Aaron Silvestri
  * silvesam@ucmail.uc.edu
@@ -26,9 +27,15 @@ public class FootballFun {
 			System.out.println("At least one test failed");
 		}
 	}
+	/**
+	 * 
+	 * 
+	 * @param score
+	 * @return "" returns "All tests passed" if all statements align
+	 */
+	
 	public static String translateScore (int score) {
-		int result;
-		result = score;
+	
 		if (score == 2) {return"safety";}
 		if (score == 3) {return"field goal";}
 		if (score == 6) {return"touchdown";}
