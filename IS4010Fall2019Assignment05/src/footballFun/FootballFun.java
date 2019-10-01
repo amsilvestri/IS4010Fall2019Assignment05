@@ -2,6 +2,7 @@
  * IS4010 Fall 2019
  * 10/03/2019
  * Assignment 05
+ * Description: Football Scores
  * Aaron Silvestri
  * silvesam@ucmail.uc.edu
  */
